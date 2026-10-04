@@ -41,7 +41,6 @@ apis:
   - name: Nager.Date
     description: "Public holidays for more than 90 countries"
     humanURL: https://date.nager.at
-    baseURL: https://date.nager.at
     tags:
       - Calendar
     properties:
